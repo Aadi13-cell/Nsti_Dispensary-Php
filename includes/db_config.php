@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "root"; // Change this to your database username
-$password = "root"; // Change this to your database password
+$username = "*****"; 
+$password = "*****"; 
 $dbname = "nsti_dispensary";
 
 // Create connection
